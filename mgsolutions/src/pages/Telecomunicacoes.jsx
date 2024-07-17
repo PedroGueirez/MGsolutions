@@ -1,14 +1,14 @@
 import React from "react";
 
 
-function Home(){
+function Telecomunicacoes(){
     return(
         <>
         <div>
-           <p>oiiii</p>
+           <p>pahhhhh</p>
         </div>
         
         </>
     )
 }
-export default Home
+export default Telecomunicacoes
