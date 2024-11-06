@@ -25,10 +25,10 @@ function Navbar() {
         </div>
         <div className="space-x-10">
           <div className="ssm:hidden md:block space-x-1">
-            <Link to="/telecomunicacoes" className="text-white hover:bg-sky-700 rounded-full px-3 py-2 text-xl">
+            <Link to="/telecomunicacoes" className="text-white hover:bg-slate-500 rounded-full px-3 py-2 text-xl">
               Telecomunicações
             </Link>
-            <Link to="/eletricidade" className="text-white hover:bg-sky-700 rounded-full px-3 py-2 text-xl">
+            <Link to="/eletricidade" className="text-white hover:bg-slate-500 rounded-full px-3 py-2 text-xl">
               Eletricidade
             </Link>
             <Link to="/inteligentes" className="text-white hover:bg-sky-700 rounded-full px-3 py-2 text-xl">
