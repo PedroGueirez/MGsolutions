@@ -1,6 +1,6 @@
 import React from "react"
 
-function Eletricidade(){
+function Energia(){
     return(
         <>
         <div>
@@ -10,4 +10,4 @@ function Eletricidade(){
         </>
     )
 }
-export default Eletricidade
+export default Energia

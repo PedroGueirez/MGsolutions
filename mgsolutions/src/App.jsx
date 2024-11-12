@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
-import Eletricidade from "./pages/Eletricidade"
+import Energia from "./pages/Energia"
 import Inteligentes from "./pages/Inteligentes";
 import Telecomunicacoes from "./pages/Telecomunicacoes";
 
@@ -17,7 +17,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/telecomunicacoes" element={<Telecomunicacoes />} />
-        <Route path="/eletricidade" element={<Eletricidade />} />
+        <Route path="/energia" element={<Energia />} />
         <Route path="/inteligentes" element={<Inteligentes />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>

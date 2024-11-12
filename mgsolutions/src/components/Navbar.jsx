@@ -34,10 +34,10 @@ function Navbar() {
               Telecomunicações
             </Link>
             <Link
-              to="/eletricidade"
+              to="/energia"
               className="text-white hover:bg-slate-500 rounded-full px-3 py-2 text-xl"
             >
-              Eletricidade
+              Energia
             </Link>
             <Link
               to="/inteligentes"
@@ -78,7 +78,7 @@ function Navbar() {
                 Telecomunicações
               </li>
               <li className="text-white text-xl mb-5 border-b border-grat-700 pb-1 hover:bg-sky-700 ">
-                Eletricidade
+                Energia
               </li>
               <li className="text-white text-xl mb-5 border-b border-grat-700 pb-1 hover:bg-sky-700 ">
                 Inteligentes
