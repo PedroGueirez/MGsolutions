@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { FaBoltLightning } from "react-icons/fa6";
 import { IoHomeSharp } from "react-icons/io5";
 import { MdPhonelink } from "react-icons/md";
-import img1 from '../assets/img1.png'
+import img1 from '../assets/img_A95ChxH1_0.jpeg'
 
 
 function Home() {
@@ -39,13 +39,13 @@ function Home() {
                     </ul>
                 </div>
 
-                <div className="w-3/5 bg-white shadow-md rounded-lg p-6 border-2 border-blue-500">
-    <div className="flex justify-center">
-        <img 
-            src={img1} 
-            alt="Imagem Telecomunicações" 
-            className="w-full max-h-96 object-contain" // Limite de altura com object-fit
-        />
+        <div className="w-3/5 bg-white shadow-md rounded-lg p-6 border-2 border-blue-500">
+             <div className="flex justify-center">
+                <img 
+                    src={img1} 
+                    alt="Imagem Telecomunicações" 
+                    className="w-full max-h-96 object-contain" // Limite de altura com object-fit
+             />
     </div>
 </div>
 
