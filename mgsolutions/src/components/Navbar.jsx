@@ -26,7 +26,7 @@ function Navbar() {
           </Link>
         </div>
         <div className="space-x-10">
-          <div className="ssm:hidden md:block space-x-1">
+          <div className="hidden ssm:hidden md:block space-x-1">
             <Link
               to="/telecomunicacoes"
               className="text-white hover:bg-slate-500 rounded-full px-3 py-2 text-xl"
